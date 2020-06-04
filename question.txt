@@ -1,1 +1,8 @@
 This is a question?
+<<<<<<< HEAD
+=======
+
+This is an answer!
+
+nbew line
+>>>>>>> my-new-branch
